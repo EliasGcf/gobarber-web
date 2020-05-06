@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  GoBarber Application made with ReactJS
+  ReactJS Application for GoBarber project
 </h3>
 
 <p align="center">The best way to schedule your service!</p>
