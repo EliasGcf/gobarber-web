@@ -72,6 +72,8 @@ Technologies that I used to develop this web client
 $ git clone https://github.com/EliasGcf/gobarber-web.git && cd gobarber-web
 ```
 
+**Follow the steps below**
+
 ```bash
 # Install the dependencies
 $ yarn
@@ -92,6 +94,8 @@ $ yarn start
 
 $ gh repo fork EliasGcf/gobarber-web
 ```
+
+**Follow the steps below**
 
 ```bash
 # Clone your fork
