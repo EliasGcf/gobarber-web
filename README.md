@@ -38,7 +38,7 @@
 
 </br>
 
-![](https://res.cloudinary.com/eliasgcf/image/upload/v1588804964/GoBarber/Kapture_2020-05-06_at_18.40.43_wnrgin.gif)
+<img alt="Layout" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588811213/GoBarber/Kapture_2020-05-06_at_21.25.26_tijnl5.gif">
 
 ## 💇🏻‍♂️ About the project
 
