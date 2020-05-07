@@ -38,9 +38,7 @@
 
 </br>
 
-<img alt="Login" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588786543/GoBarber/Logon_qnyjhw.png">
-
-<img alt="Home" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588786648/GoBarber/Home_latdlj.png">
+<img alt="Login" src="https://res.cloudinary.com/eliasgcf/image/upload/v1588804964/GoBarber/Kapture_2020-05-06_at_18.40.43_wnrgin.gif">
 
 ## 💇🏻‍♂️ About the project
 
