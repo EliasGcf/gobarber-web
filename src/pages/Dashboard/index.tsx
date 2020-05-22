@@ -121,7 +121,13 @@ const Dashboard: React.FC = () => {
           <img src={logoImg} alt="Logo GoBarber" />
 
           <S.HeaderProfile>
-            <img src={user.avatar_url} alt={user.name} />
+            <img
+              src={
+                user.avatar_url ||
+                'https://api.adorable.io/avatars/56/abott@adorable.io.png'
+              }
+              alt={user.name}
+            />
 
             <div>
               <span>Bem-vindo,</span>
@@ -151,7 +157,10 @@ const Dashboard: React.FC = () => {
               <strong>Atendimento a seguir</strong>
               <div>
                 <img
-                  src={nextAppointment.user.avatar_url}
+                  src={
+                    nextAppointment.user.avatar_url ||
+                    'https://api.adorable.io/avatars/80/abott@adorable.io.png'
+                  }
                   alt={nextAppointment.user.name}
                 />
 
@@ -180,7 +189,10 @@ const Dashboard: React.FC = () => {
 
                 <div>
                   <img
-                    src={appointment.user.avatar_url}
+                    src={
+                      appointment.user.avatar_url ||
+                      'https://api.adorable.io/avatars/56/abott@adorable.io.png'
+                    }
                     alt={appointment.user.name}
                   />
 
@@ -205,7 +217,10 @@ const Dashboard: React.FC = () => {
 
                 <div>
                   <img
-                    src={appointment.user.avatar_url}
+                    src={
+                      appointment.user.avatar_url ||
+                      'https://api.adorable.io/avatars/56/abott@adorable.io.png'
+                    }
                     alt={appointment.user.name}
                   />
 
