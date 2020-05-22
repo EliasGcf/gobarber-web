@@ -5,6 +5,7 @@ import DayPicker, { DayModifiers } from 'react-day-picker';
 import 'react-day-picker/lib/style.css';
 
 import { FiPower, FiClock } from 'react-icons/fi';
+import { Link } from 'react-router-dom';
 import * as S from './styles';
 
 import logoImg from '../../assets/logo.svg';
@@ -124,7 +125,9 @@ const Dashboard: React.FC = () => {
 
             <div>
               <span>Bem-vindo,</span>
-              <strong>{user.name}</strong>
+              <Link to="/profile">
+                <strong>{user.name}</strong>
+              </Link>
             </div>
           </S.HeaderProfile>
 
